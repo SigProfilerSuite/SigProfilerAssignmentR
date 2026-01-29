@@ -1,7 +1,7 @@
 Package: SigProfilerAssignmentR
 Type: Package
 Title: An R wrapper for running the SigProfilerAssignment framework
-Version: 0.0.23
+Version: 1.1.3
 Author: Marcos Díaz-Gay
 Maintainer: Marcos Díaz-Gay <mdiazgay@health.ucsd.edu>
 Description: SigProfilerAssignment allows assigning previously known mutational signatures
